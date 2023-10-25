@@ -203,7 +203,7 @@ CREATE TABLE "Almacenista" (
 	(
 		"UsuarioId"
 	) REFERENCES "Usuario" (
-		"PlantelId"
+		"UsuarioId"
     )
 
 );
