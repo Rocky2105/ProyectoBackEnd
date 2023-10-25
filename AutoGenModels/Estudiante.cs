@@ -26,7 +26,7 @@ public partial class Estudiante
     public long GrupoId { get; set; }
 
     [Column(TypeName = "decimal(10,2)")]
-    public byte[] Adeudo { get; set; } = null!;
+    public decimal Adeudo { get; set; }
 
     [Column(TypeName = "varchar(100)")]
     public string Correo { get; set; } = null!;

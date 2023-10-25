@@ -144,6 +144,7 @@ INSERT INTO "Usuario" ("Usuario", "Password") VALUES ('Carlos', 'Carlos');
 INSERT INTO "Usuario" ("Usuario", "Password") VALUES ('Ernesto', 'Ernesto');
 INSERT INTO "Usuario" ("Usuario", "Password") VALUES ('Susana', 'Susana');
 INSERT INTO "Usuario" ("Usuario", "Password") VALUES ('Aneel', 'Aneel');
+INSERT INTO "Usuario" ("Usuario", "Password") VALUES ('Figueroa', 'Figueroa');
 
 ------------------------------------------------------
 
@@ -202,7 +203,7 @@ CREATE TABLE "Almacenista" (
 	(
 		"UsuarioId"
 	) REFERENCES "Usuario" (
-		"PlantelId"
+		"UsuarioId"
     )
 
 );
@@ -240,7 +241,7 @@ CREATE TABLE "Coordinador" (
 
 -----------------------------------------------------
 
-INSERT INTO "Coordinador" ("CoordinadorId","Nombre","ApellidoPaterno","ApellidoMaterno","Correo","PlantelId","UsuarioId") VALUES (1,'Andres','Figueroa','Flores','figueroa@ceti.mx',1,11);
+INSERT INTO "Coordinador" ("CoordinadorId","Nombre","ApellidoPaterno","ApellidoMaterno","Correo","PlantelId","UsuarioId") VALUES (1,'Andres','Figueroa','Flores','figueroa@ceti.mx',1,12);
 
 -----------------------------------------------------
 

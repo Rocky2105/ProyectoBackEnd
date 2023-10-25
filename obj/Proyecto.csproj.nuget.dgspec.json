@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\52331\\Desktop\\PrograAvanzada\\Proyecto\\Proyecto.csproj": {}
+    "C:\\Users\\rocob\\Documents\\CETI\\7mo\\Avanzada1\\ProyectoBackEnd\\Proyecto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\52331\\Desktop\\PrograAvanzada\\Proyecto\\Proyecto.csproj": {
+    "C:\\Users\\rocob\\Documents\\CETI\\7mo\\Avanzada1\\ProyectoBackEnd\\Proyecto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\52331\\Desktop\\PrograAvanzada\\Proyecto\\Proyecto.csproj",
+        "projectUniqueName": "C:\\Users\\rocob\\Documents\\CETI\\7mo\\Avanzada1\\ProyectoBackEnd\\Proyecto.csproj",
         "projectName": "Proyecto",
-        "projectPath": "C:\\Users\\52331\\Desktop\\PrograAvanzada\\Proyecto\\Proyecto.csproj",
-        "packagesPath": "C:\\Users\\52331\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\52331\\Desktop\\PrograAvanzada\\Proyecto\\obj\\",
+        "projectPath": "C:\\Users\\rocob\\Documents\\CETI\\7mo\\Avanzada1\\ProyectoBackEnd\\Proyecto.csproj",
+        "packagesPath": "C:\\Users\\rocob\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rocob\\Documents\\CETI\\7mo\\Avanzada1\\ProyectoBackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\52331\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\rocob\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -73,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
